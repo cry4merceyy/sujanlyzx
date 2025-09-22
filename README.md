@@ -304,7 +304,7 @@ Open an issue with:
 
 ### README badge  
 
-Add these to the top if you like:
+
 
 ```md
 ![Node](https://img.shields.io/badge/node-%3E%3D18-brightgreen)
@@ -314,4 +314,3 @@ Add these to the top if you like:
 
 ---
 
-If you want, send me your **command list** or **config** and I’ll tailor this README exactly to your repo.
